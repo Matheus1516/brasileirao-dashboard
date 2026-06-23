@@ -2,6 +2,12 @@
 
 Dashboard interativo que analisa mais de 20 anos de partidas do Campeonato Brasileiro de Futebol, revelando padrões de desempenho dos times e o impacto real de jogar em casa.
 
+🔗 **[Acesse o dashboard ao vivo aqui](https://dashboard-brasileirao.streamlit.app/)**
+
+> 💡 **Nota:** Este app está hospedado no plano gratuito do Streamlit Cloud, 
+> que "adormece" após período de inatividade. Se o link demorar para abrir 
+> na primeira vez, basta aguardar ~30 segundos — o servidor está reativando.
+
 ## 🎯 Principais insights
 
 - **Vantagem de jogar em casa é real e expressiva**: 49,6% das partidas terminam em vitória do time da casa, contra apenas 23,9% de vitórias do visitante.
