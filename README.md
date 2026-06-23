@@ -6,7 +6,7 @@ Dashboard interativo que analisa mais de 20 anos de partidas do Campeonato Brasi
 
 > 💡 **Nota:** Este app está hospedado no plano gratuito do Streamlit Cloud, 
 > que "adormece" após período de inatividade. Se o link demorar para abrir 
-> na primeira vez, basta aguardar ~30 segundos — o servidor está reativando.
+> na primeira vez, basta aguardar 30 segundos que o servidor irá reativar.
 
 ## 🎯 Principais insights
 
